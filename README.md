@@ -1,6 +1,7 @@
 # velocity-fix
 
-13修复+优化
-一个人做，想抄就抄吧
-(连AI都说这个仓库代码混乱，代码能好到哪里去)
-我更新，不代表有些东西是写好再传的(在最新的移动修复中，损坏了ragebot，dt正常工作)
+
+13 Fixes & Optimizations
+Solo project—feel free to copy it if you want.
+(Even the AI ​​says the code in this repo is a mess, so don't expect miracles.)
+Just because I'm pushing updates doesn't mean everything is polished before upload (e.g., the latest mobile fix broke Ragebot, though DT is working fine).
